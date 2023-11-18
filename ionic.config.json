@@ -1,0 +1,7 @@
+{
+  "name": "Home-Banking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
