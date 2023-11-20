@@ -14,6 +14,7 @@ import { TarjetasPage } from './tarjetas.page';
     FormsModule,
     IonicModule,
     TarjetasPageRoutingModule
+
   ],
   declarations: [TarjetasPage]
 })
